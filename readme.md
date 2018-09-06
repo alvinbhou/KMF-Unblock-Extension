@@ -10,8 +10,8 @@ A Chrome and Firefox extension that bypasses KMF region restriction.
 
 |Platform|Link|
 |:-:|:-:|
-|[![](https://i.imgur.com/zv5G8Ly.png =30x30)](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb)| [Chrome Extension](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb)|
-|[![](https://i.imgur.com/M6KOVju.png =25x25)](https://addons.mozilla.org/en-GB/firefox/addon/kmf-unblock/)| [Firefox Extension](https://addons.mozilla.org/en-GB/firefox/addon/kmf-unblock/)|
+|[<img src = "https://i.imgur.com/zv5G8Ly.png" width="30px">](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb)| [Chrome Extension](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb)|
+|[<img src = "https://i.imgur.com/M6KOVju.png" width="25px">](https://addons.mozilla.org/en-GB/firefox/addon/kmf-unblock/)| [Firefox Extension](https://addons.mozilla.org/en-GB/firefox/addon/kmf-unblock/)|
 
 ## Screenshots
 
@@ -35,7 +35,8 @@ Why can't I see my practice records?
 The extension does not effect nor change the practice records. The absence of the practice records' indicator may due to KMF's new policy which could be fixed by using VPN 
 
 > The records are visible when using China VPN
-> ![](https://i.imgur.com/5b1nn5k.png =512x) 
+<img src = "https://i.imgur.com/5b1nn5k.png" width="512px">
+
 
 #### Q2
 若不想使用VPN有無其他方式查看做題紀錄？
@@ -48,18 +49,10 @@ Not a big fan of VPN, is there another way to check my records?
 
 另外模考區域沒有VPN一樣可以正常顯示答題紀錄
 
-You can find all your records by clicking the tab "我的托福" (My TOEFL). The records in the mock test section are also visible.
+You can find all your records by clicking the tab "我的托福" (My TOEFL). The records in the mock test section are also available.
 
 > 我的托福 (My TOEFL) tab
-![](https://i.imgur.com/EZ0bN5Z.png =512x)
+<img src = "https://i.imgur.com/EZ0bN5Z.png" width="512px">
 
 > Mock test Section
-![](https://i.imgur.com/MMqHCmG.png =512x)
-
-
-
-
-
-
-
-
+<img src = "https://i.imgur.com/MMqHCmG.png " width="512px">
