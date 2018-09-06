@@ -35,7 +35,7 @@ Why can't I see my practice records?
 The extension does not effect nor change the practice records. The absence of the practice records' indicator may due to KMF's new policy which could be fixed by using VPN 
 
 > The records are visible when using China VPN
-<img src = "https://i.imgur.com/5b1nn5k.png" width="512px">
+> <img src = "https://i.imgur.com/5b1nn5k.png" width="512px">
 
 
 #### Q2
@@ -43,7 +43,7 @@ The extension does not effect nor change the practice records. The absence of th
 
 Not a big fan of VPN, is there another way to check my records?
 
-#### Q2
+#### A2
 
 不想VPN的話或可以去『我的托福』那邊，一樣可以看到紀錄
 
@@ -52,7 +52,7 @@ Not a big fan of VPN, is there another way to check my records?
 You can find all your records by clicking the tab "我的托福" (My TOEFL). The records in the mock test section are also available.
 
 > 我的托福 (My TOEFL) tab
-<img src = "https://i.imgur.com/EZ0bN5Z.png" width="512px">
+> <img src = "https://i.imgur.com/EZ0bN5Z.png" width="512px">
 
 > Mock test Section
-<img src = "https://i.imgur.com/MMqHCmG.png " width="512px">
+> <img src = "https://i.imgur.com/MMqHCmG.png " width="512px">
