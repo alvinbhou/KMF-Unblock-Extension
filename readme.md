@@ -1,5 +1,7 @@
 # KMF Unblock Extension
 
+![](https://img.shields.io/chrome-web-store/users/jlbknbfjajehjmfjegefddgegipadonb?label=Chrome) ![](https://img.shields.io/chrome-web-store/rating/jlbknbfjajehjmfjegefddgegipadonb?label=Rating) ![](https://img.shields.io/amo/users/{24e6e3c8-3ef1-4c79-a9d6-d43f83cb5470}?color=F62336&label=Firefox)   ![](https://img.shields.io/amo/dw/{24e6e3c8-3ef1-4c79-a9d6-d43f83cb5470}?color=F62336&label=Downloads)
+
 解除『考滿分』區域限制的擴充功能
 
 A Chrome and Firefox extension that bypasses KMF region restriction.
@@ -12,7 +14,7 @@ The extension supports TOEFL TPO's practice and mock test sections.
 
 |Platform|Link|
 |:-:|:-:|
-|[<img src = "https://i.imgur.com/zv5G8Ly.png" width="30px">](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb)| [Chrome Extension](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb)|
+|[<img src = "https://i.imgur.com/zv5G8Ly.png" width="30px">](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb)| [Chrome Extension](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb) |
 |[<img src = "https://i.imgur.com/M6KOVju.png" width="25px">](https://addons.mozilla.org/en-GB/firefox/addon/kmf-unblock/)| [Firefox Extension](https://addons.mozilla.org/en-GB/firefox/addon/kmf-unblock/)|
 
 ## Screenshots
