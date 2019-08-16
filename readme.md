@@ -1,6 +1,6 @@
 # KMF Unblock Extension
 
-![](https://img.shields.io/chrome-web-store/users/jlbknbfjajehjmfjegefddgegipadonb?label=Chrome) ![](https://img.shields.io/chrome-web-store/rating/jlbknbfjajehjmfjegefddgegipadonb?label=Rating) ![](https://img.shields.io/amo/users/{24e6e3c8-3ef1-4c79-a9d6-d43f83cb5470}?color=F62336&label=Firefox)   ![](https://img.shields.io/amo/dw/{24e6e3c8-3ef1-4c79-a9d6-d43f83cb5470}?color=F62336&label=Downloads)
+[![](https://img.shields.io/chrome-web-store/users/jlbknbfjajehjmfjegefddgegipadonb?label=Chrome)](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb) [![](https://img.shields.io/chrome-web-store/rating/jlbknbfjajehjmfjegefddgegipadonb?label=Rating)](https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb) [![](https://img.shields.io/amo/users/{24e6e3c8-3ef1-4c79-a9d6-d43f83cb5470}?color=F62336&label=Firefox)](https://addons.mozilla.org/en-GB/firefox/addon/kmf-unblock/)   [![](https://img.shields.io/amo/dw/{24e6e3c8-3ef1-4c79-a9d6-d43f83cb5470}?color=F62336&label=Downloads)](https://addons.mozilla.org/en-GB/firefox/addon/kmf-unblock/)
 
 解除『考滿分』區域限制的擴充功能
 
