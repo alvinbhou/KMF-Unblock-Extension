@@ -3,7 +3,7 @@
   "name": "KMF-Unblock",
   "author": "Alvin Hou",
   "description": "解除『考滿分』區域限制 A Chrome and Firefox extension that bypasses KMF region restriction.",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "icons": {
     "16": "icons/kmf-unblock-icon-16.png",
     "128": "icons/kmf-unblock-icon-128.png"
@@ -14,10 +14,8 @@
     "default_popup": "popup.html"
   },
   "homepage_url": "https://github.com/CryoliteZ/KMF-Unblock-Extension",
-  "content_scripts": [
-    {
-      "matches": ["http://*.kmf.com/*", "https://*.kmf.com/*"],
-      "js": ["script.js"]
-    }
-  ]
+  "content_scripts": [{
+    "matches": ["http://*.kmf.com/*", "https://*.kmf.com/*"],
+    "js": ["script.js"]
+  }]
 }

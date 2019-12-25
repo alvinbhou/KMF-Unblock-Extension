@@ -1,17 +1,27 @@
 window.onload = function () {
-    /* remove blocking box */
+    /* TOEFL section */
+    /* Remove blocking box */
     document.querySelectorAll('.shield-box').forEach(s => s.remove());
-    /* remove blur effect */
+    /* Remove blur effect */
     (() => {
         let times = 10;
-        (function run () {
+        (function run() {
             document.querySelectorAll('.blur').forEach(b => {
                 b.classList.remove('blur');
                 times = 0;
-            } );
-            if(times--){
+            });
+            if (times--) {
                 setTimeout(run, 200);
             }
         })();
     })();
+
+    /* GMAT section */
+    /* Remove blocking box and text for single practice questions*/
+    document.querySelectorAll('.dart .mark-text').forEach(e => e.remove());
+    document.querySelectorAll('.dart .mark-no-copyright').forEach(e => e.classList.remove('mark-no-copyright'));
+
+    /* Remove disable tab and text for mock section*/
+    document.querySelectorAll('.tab-forbidden[data-type="PREP"]').forEach(e => e.classList.remove('tab-forbidden'));
+
 }();
