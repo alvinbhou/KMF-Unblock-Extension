@@ -3,7 +3,7 @@ window.onload = function () {
     /* Remove blocking box */
     document.querySelectorAll('.shield-box').forEach(s => s.remove());
 
-    /*  Select the nodes that to remove the blur and login block */
+    /*  Select the nodes to remove the blur and login block */
     const targetNodes = document.querySelectorAll('.questions-tools, .practice-container');
     console.log(targetNodes);
     for (let targetNode of targetNodes) {
