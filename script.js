@@ -1,7 +1,8 @@
-window.onload = function () {
+window.onload = function() {
     /* TOEFL section */
     /* Remove blocking box */
     document.querySelectorAll('.shield-box').forEach(s => s.remove());
+    document.querySelectorAll('.login-cont').forEach(s => s.remove());
     /* Remove blur effect */
     (() => {
         let times = 10;
