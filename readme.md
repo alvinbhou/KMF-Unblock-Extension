@@ -27,6 +27,8 @@ The extension supports TOEFL TPO's practice and mock test sections and also GMAT
 |:-:|:-:|
 |TOEFL without extension|![](https://i.imgur.com/dCHMA7H.png)|
 |TOEFL with extension|![](https://i.imgur.com/pM1F5w8.png)|
+|Guest without extension|![](https://i.imgur.com/YTtA4E4.png)|
+|Guest with extension|![](https://i.imgur.com/6HWOCwb.png)|
 |GMAT PP without extension|![](https://i.imgur.com/HBsngKw.png)|
 |GMAT PP with extension|![](https://i.imgur.com/OdcTCLj.png)|
 |GMAT Question without extension|![](https://i.imgur.com/GgMHSdO.png)|
@@ -71,3 +73,7 @@ You can find all your records by clicking the tab "我的托福" (My TOEFL). The
 > Mock test Section
 
 <img src = "https://i.imgur.com/MMqHCmG.png " width="512px">
+
+## Contributors
+
+* ![](https://avatars.githubusercontent.com/u/24900532?s=25) [CodingSheep1229](https://github.com/CodingSheep1229)
