@@ -6,16 +6,16 @@ window.onload = function () {
     /*  Select the nodes to remove the blur and login block */
     const targetNodes = document.querySelectorAll('.questions-tools, .practice-container');
     console.log(targetNodes);
-    for (let targetNode of targetNodes) {
-        // Options for the observer (which mutations to observe)
-        const config = {
-            attributes: true,
-            childList: true,
-            subtree: true
-        };
 
+    // Options for the observer (which mutations to observe)
+    const config = {
+        attributes: true,
+        childList: true,
+        subtree: true
+    };
+    for (let targetNode of targetNodes) {
         // Callback function to execute when mutations are observed
-        const callback = function (e) {
+        let callback = function (e) {
             document.querySelectorAll('.login-cont').forEach(s => s.remove());
             document.querySelectorAll('.blur').forEach(b => {
                 b.classList.remove('blur')
@@ -23,7 +23,7 @@ window.onload = function () {
         };
 
         // Create an observer instance linked to the callback function
-        const observer = new MutationObserver(callback);
+        let observer = new MutationObserver(callback);
 
         // Start observing the target node for configured mutations
         observer.observe(targetNode, config);
