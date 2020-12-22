@@ -6,13 +6,9 @@
 
 A Chrome and Firefox extension that bypasses KMF region restriction.
 
-支援TOEFL真題練習和模考區，以及GMAT PP和題庫
+支援TOEFL真題練習和模考區
 
-The extension supports TOEFL TPO's practice and mock test sections and also GMAT's PREP and question sections.
-
-**[新功能]** 無須登入即可瀏覽官方解析
-
-**[New Feature]** Browse official solutions without login
+The extension supports TOEFL TPO's practice and mock test sections
 
 ## Install Extensions
 
@@ -29,10 +25,6 @@ The extension supports TOEFL TPO's practice and mock test sections and also GMAT
 |TOEFL with extension|![](https://i.imgur.com/pM1F5w8.png)|
 |Guest without extension|![](https://i.imgur.com/YTtA4E4.png)|
 |Guest with extension|![](https://i.imgur.com/6HWOCwb.png)|
-|GMAT PP without extension|![](https://i.imgur.com/HBsngKw.png)|
-|GMAT PP with extension|![](https://i.imgur.com/OdcTCLj.png)|
-|GMAT Question without extension|![](https://i.imgur.com/GgMHSdO.png)|
-|GMAT Question with extension|![](https://i.imgur.com/BcqJqCL.png)|
 
 ## Q&A
 
