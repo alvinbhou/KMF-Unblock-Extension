@@ -1,4 +1,10 @@
 window.onload = function () {
+    /* HTTPS upgrade */
+    /* Prevent possible microphone API permissions issues */
+    if (location.protocol !== "https:") {
+        location.protocol = "https:";
+    }
+
     /* TOEFL section */
     /* Remove blocking box */
     document.querySelectorAll('.shield-box').forEach(s => s.remove());
